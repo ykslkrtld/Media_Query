@@ -95,7 +95,7 @@ main{
     }
 }
 
-@media screen and (max-width: 500px){
+@media screen and (max-width: 530px){
     .container{
         background-color: green;
     }
