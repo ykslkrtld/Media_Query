@@ -32,7 +32,9 @@ main{
 
 .img1 img{
     width: 60vw;
-    height: 40vh;
+    height: 50vh;
+    border-radius: 2rem;
+    box-shadow: 2px 5px 5px black;
 }
 
 .img2,
@@ -59,7 +61,9 @@ main{
 
     .img2 img{
         width: 60vw;
-        height: 40vh;
+        height: 50vh;
+        border-radius: 2rem;
+        box-shadow: 2px 5px 5px black;
     }
 }
 
@@ -87,11 +91,14 @@ main{
     .img3{
         display: flex;
         justify-content: center;
+        
     }
 
     .img3 img{
         width: 60vw;
-        height: 40vh;
+        height: 50vh;
+        border-radius: 2rem;
+        box-shadow: 2px 5px 5px black;
     }
 }
 
@@ -123,6 +130,8 @@ main{
 
     .img4 img{
         width: 60vw;
-        height: 40vh;
+        height: 50vh;
+        border-radius: 2rem;
+        box-shadow: 2px 5px 5px black;
     }
 }
